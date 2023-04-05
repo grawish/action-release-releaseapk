@@ -1,7 +1,7 @@
-name: "Build Android release APK when create new tag"
+name: "Build Android release APK with EXPO"
 branding:
   icon: "package"
-  color: "red"
+  color: "green"
 description: "Build Android release APK and upload as a github release match the created new tag"
 author: "goblin-ihx"
 inputs:
